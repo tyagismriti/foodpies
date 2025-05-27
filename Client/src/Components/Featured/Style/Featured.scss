@@ -1,0 +1,43 @@
+$themeColor: #fbe0dc;
+
+.f_paper {
+  // width: 100%;
+  padding: 1.5%;
+  height: auto;
+  background-color: $themeColor;
+  border-radius: 10px;
+  .f_card {
+    display: flex;
+    flex-direction: row;
+    padding: 1.5%;
+    margin-bottom: 1.5%;
+    text-align: justify;
+    .player {
+      width: 100%;
+      height: 270px;
+      border-radius: 8px;
+      box-shadow: 2px 2px 12px #aaa;
+    }
+    .min_text {
+      white-space: pre-line;
+    }
+  }
+}
+
+.right {
+  float: right;
+}
+
+@media screen and (max-width: 1080px) {
+  .f_paper {
+    padding: 4%;
+    .f_card {
+      padding: 5%;
+      margin-bottom: 20px;
+      .player {
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+}

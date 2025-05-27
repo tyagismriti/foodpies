@@ -1,0 +1,50 @@
+.f-container {
+  .row {
+    width: 100%;
+    margin-top: -2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 0px;
+
+    .shortText {
+      font-size: 12px;
+      color: brown;
+      cursor: pointer;
+    }
+
+    .F-heading {
+      font-weight: bold;
+    }
+    label {
+      .radioFilter {
+        appearance: none;
+        height: 20px;
+        width: 20px;
+        background: #fbe0dc;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: all 0.15s ease-out 0s;
+      }
+      .radioFilter:hover {
+        background-color: #f7c8c1;
+      }
+      .radioFilter:checked {
+        background: #f0b0a6;
+      }
+      .radioFilter:checked::before {
+        height: 40px;
+        width: 20px;
+        position: absolute;
+        content: "✔";
+        display: inline-block;
+        text-align: center;
+        color: white;
+      }
+    }
+  }
+  #f-row {
+    line-height: 5px;
+  }
+}

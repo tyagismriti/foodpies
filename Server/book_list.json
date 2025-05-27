@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "url": "https://i.ibb.co/vhPjJ3Q/Air-Fryer-Cookbook.webp",
+    "title": "Air Fryer Cookbook",
+    "price": "$11.56",
+    "link":"https://www.amazon.com/Air-Fryer-Cookbook-Effortless-Beginners/dp/1674844468/ref=zg_bs_6_1/143-9456390-6836934?_encoding=UTF8&psc=1&refRID=B5XVPV5AQVPYHTCDEAXH"
+  },
+  {
+    "id": "2",
+    "url": "https://i.ibb.co/xHsGKLJ/All-American-Christmas.webp",
+    "title": "All American Christmas",
+    "price": "$18.70",
+    "link":"https://www.amazon.com/All-American-Christmas-Sean-Duffy/dp/0063046644/ref=zg_bs_6_2/143-9456390-6836934?_encoding=UTF8&psc=1&refRID=B5XVPV5AQVPYHTCDEAXH"
+  },
+  {
+    "id": "3",
+    "url": "https://i.ibb.co/x1msvKY/To-Asia-With-Love.webp",
+    "title": "To Asia, With Love",
+    "price": "$42.89",
+    "link":"https://www.amazon.com/Asia-Love-Everyday-Recipes-Stories/dp/3791386832"
+  },
+  {
+    "id": "4",
+    "url": "https://i.ibb.co/Xs5HjZK/In-Bibi-s-Kitchen.webp",
+    "title": "In Bibi’s Kitchen",
+    "price": "$18.69",
+    "link":"https://www.amazon.com/Bibis-Kitchen-Recipes-Grandmothers-Countries/dp/1984856731/ref=cm_cr_arp_d_product_top?ie=UTF8"
+  },
+  {
+    "id": "5",
+    "url": "https://i.ibb.co/RhW8p82/Taste-My-Life-Through-Food.webp",
+    "title": "Taste: My Life Through Food",
+    "price": "$18.14",
+    "link":"https://www.amazon.com/Taste-My-Life-Through-Food/dp/1982168013/ref=zg_bs_6_8/143-9456390-6836934?_encoding=UTF8&psc=1&refRID=B5XVPV5AQVPYHTCDEAXH"
+  },
+  {
+    "id": "6",
+    "url": "https://i.ibb.co/ZxWDhdd/Magnolia-Table.webp",
+    "title": "Magnolia Table",
+    "price": "$14",
+    "link":"https://www.amazon.com/Magnolia-Table-Collection-Recipes-Gathering/dp/0062820184/ref=zg_bs_6_15?_encoding=UTF8&psc=1&refRID=ZSP6FQCQTPM8GY567W5A"
+  },
+  {
+    "id": "7",
+    "url": "https://i.ibb.co/ZgR5YRV/Project-Smoke.webp",
+    "title": "Project Smoke",
+    "price": "$34.54",
+    "link":"https://www.amazon.com/Project-Smoke-Steven-Raichlen/dp/0761181865/ref=zg_bs_6_20?_encoding=UTF8&psc=1&refRID=ZSP6FQCQTPM8GY567W5A"
+  },
+  {
+    "id": "8",
+    "url": "https://i.ibb.co/DD0K5pD/Fix-It-with-Food.webp",
+    "title": "Fix It with Food",
+    "price": "$20.57",
+    "link":"https://www.amazon.com/Fix-Food-Delicious-Autoimmune-Inflammation/dp/0593233107/ref=zg_bs_6_21?_encoding=UTF8&psc=1&refRID=ZSP6FQCQTPM8GY567W5A"
+  },
+  {
+    "id": "9",
+    "url": "https://i.ibb.co/zQcTxP1/The-Comfortable-Kitchen.webp",
+    "title": "The Comfortable Kitchen",
+    "price": "$23.99",
+    "link":"https://www.amazon.com/Comfortable-Kitchen-Laid-Back-Healthy-Wholesome/dp/0063075415/ref=zg_bs_6_35?_encoding=UTF8&psc=1&refRID=ZSP6FQCQTPM8GY567W5A"
+  }
+]

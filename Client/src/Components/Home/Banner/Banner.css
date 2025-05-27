@@ -1,0 +1,125 @@
+.banner-bg {
+  height: 370px;
+  width: 100%;
+  background: #fbe0dc;
+  border-radius: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.banner-bg .text,
+.banner-bg .img {
+  height: 100%;
+  width: 50%;
+}
+
+.banner-bg .img {
+  width: 70%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  margin-left: -90px;
+}
+
+.banner-bg .img .cooking-svg {
+  height: 350px;
+}
+
+.banner-bg .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  width: 40%;
+  height: 70%;
+  margin: 3% 5%;
+}
+
+.banner-bg .text .text-title {
+  font-size: 32px;
+  font-weight: 600;
+  width: 40%;
+  line-height: 35px;
+  margin: 20px 0;
+}
+
+.banner-bg .text .text-p {
+  font-family: Helvetica, sans-serif;
+  width: 50%;
+  margin-top: -10px;
+}
+
+.banner-bg .text .text-go {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.banner-bg .text .text-go .rArrow {
+  position: relative;
+  z-index: 0;
+  top: 2px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.banner-bg .a2 {
+  display: none;
+}
+
+@media screen and (max-width: 720px) {
+  .banner-bg {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    height: 500px;
+  }
+  .banner-bg .text {
+    width: 100%;
+  }
+  .banner-bg .text .text-title {
+    width: 100%;
+  }
+  .banner-bg .text .text-p {
+    width: 75%;
+  }
+  .banner-bg .text .text-go {
+    margin-top: -10px;
+  }
+  .banner-bg .text .text-go.a2 {
+    display: block;
+  }
+  .banner-bg .text .text-go.a1 {
+    display: none;
+  }
+  .banner-bg .img {
+    width: 100%;
+    margin: 0;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-bottom: -40px;
+  }
+  .banner-bg .img .cooking-svg {
+    height: 200px;
+  }
+}
+/*# sourceMappingURL=Banner.css.map */

@@ -1,0 +1,40 @@
+.f_paper {
+  padding: 1.5%;
+  height: auto;
+  background-color: #fbe0dc;
+  border-radius: 10px;
+}
+.f_paper .f_card {
+  display: flex;
+  flex-direction: row;
+  padding: 1.5%;
+  margin-bottom: 1.5%;
+  text-align: justify;
+}
+.f_paper .f_card .player {
+  width: 100%;
+  height: 270px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 12px #aaa;
+}
+.f_paper .f_card .min_text {
+  white-space: pre-line;
+}
+
+.right {
+  float: right;
+}
+
+@media screen and (max-width: 1080px) {
+  .f_paper {
+    padding: 4%;
+  }
+  .f_paper .f_card {
+    padding: 5%;
+    margin-bottom: 20px;
+  }
+  .f_paper .f_card .player {
+    width: 100%;
+    height: auto;
+  }
+}/*# sourceMappingURL=Featured.css.map */

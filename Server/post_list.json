@@ -1,0 +1,127 @@
+[
+    {
+        "pizza": {
+            "title": "Supreme Pizza Casserole",
+            "time": {
+                "cookTime": "40 Min",
+                "prepTime": "20 Min",
+                "totalTime": "1 Hour"
+            },
+            "serving": "8 people",
+            "author": "Gavin Belson",
+            "description": "Easy & cheesy pizza casserole is a delicious way to enjoy pizza any day of the week!",
+            "ingredients": [
+                "12 ounces medium pasta",
+                "½ pound Italian sausage or lean ground beef",
+                "1 medium onion diced",
+                "3 cloves garlic minced",
+                "2 cups pizza toppings see notes",
+                "14 ounces diced tomatoes drained",
+                "1 teaspoon oregano",
+                "1 teaspoon Italian seasoning",
+                "14 ounces pizza sauce",
+                "2 cups marinara sauce or pasta sauce",
+                "3 cups mozzarella and cheddar blend shredded",
+                "1 cup pepperoni slices divided",
+                "¼ cup parmesan cheese shredded"
+            ],
+            "garnish": [],
+            "instructions": [
+                "Preheat oven to 425°F.",
+                "Cook pasta according to package directions. Drain well.",
+                "While pasta is cooking, brown ground beef, onion, and garlic in a pan. Season with salt and pepper and drain fat.",
+                "Stir in vegetable toppings (if using), cook an additional 3-4 minutes or until tender. Add drained tomatoes, oregano, Italian seasoning, pizza sauce, and marinara sauce. Simmer 5 minutes.",
+                "Toss pasta with the sauce.",
+                "Spread into a greased 9×13 pan and top with the Mozza & cheddar blend and half of the pepperoni (and additional pepperoni slices if desired). Then top with parmesan cheese.",
+                "Bake 15-20 minutes uncovered or until cheese is browned."],
+
+            "Notes": [
+                "If you don't have pizza sauce, you can add additional pasta sauce.", "You may need to add a pinch of sugar and some additional seasonings."
+            ],
+
+            "Toppings": [
+                "If adding vegetables that need to be cooked (such as mushrooms or bell peppers) add them to the beef and cook a few minutes before adding sauce.",
+                "Toppings that don't need to be cooked (like ham, pepperoni, olives, artichokes etc) can be added with the pasta sauce.",
+                "Additional pepperoni and toppings can be sprinkled on top with the cheese to make it crispy."
+            ]
+        },
+
+        "pasta": {
+            "title": "Roasted Cherry Tomato Pasta",
+            "time": {
+                "prepTime": "10 Min",
+                "cookTime": "20 Min",
+                "totalTime": "30 Min"
+            },
+            "author": "Jian Yang",
+            "serving": "4 people",
+            "description": "Tender pasta tossed with garlic’d roasted cherry tomatoes and fresh basil. This easy dish is the perfect weeknight pasta and takes just minutes to prepare!",
+            "ingredients": [
+                "6 cups cherry tomatoes halved",
+                "4 cloves garlic minced",
+                "3 tablespoons olive oil",
+                "2 tablespoons balsamic vinegar",
+                "½ teaspoon dried basil",
+                "½ teaspoon oregano",
+                "salt and freshly ground pepper to taste",
+                "1 pound refrigerated pasta or use boxed if you prefer"
+            ],
+            "garnish": [
+                "¼ cup sliced fresh basil",
+                "⅓ cup parmesan cheese"
+            ],
+            "instructions": [
+                "Preheat oven to 425°F.",
+                "Cook pasta according to package directions. Drain well.",
+                "While pasta is cooking, brown ground beef, onion, and garlic in a pan. Season with salt and pepper and drain fat.",
+                "Stir in vegetable toppings (if using), cook an additional 3-4 minutes or until tender. Add drained tomatoes, oregano, Italian seasoning, pizza sauce, and marinara sauce. Simmer 5 minutes.",
+                "Toss pasta with the sauce.",
+                "Spread into a greased 9×13 pan and top with the Mozza & cheddar blend and half of the pepperoni (and additional pepperoni slices if desired). Then top with parmesan cheese.",
+                "Bake 15-20 minutes uncovered or until cheese is browned."
+            ],
+            "Notes": [],
+            "Toppings": []
+        },
+
+        "cupcake": {
+            "title": "Funfetti Cupcakes",
+            "time": {
+                "cookTime": "20 Min",
+                "prepTime": "10 Min",
+                "totalTime": "30 Min"
+            },
+            "serving": "4 people",
+            "author": "Richard Hendricks",
+            "description": "This funfetti cupcake recipe is insanely simple to make, and equally delicious! It comes together in one bowl, and makes super moist and fluffy cupcakes!!",
+            "ingredients": [
+                "1 1/4 cup all-purpose flour (160 grams)",
+                "1 cup sugar (200 grams)",
+                "1 1/2 tsp baking powder (6 grams)",
+                "1/2 tsp salt (3 grams)",
+                "1/2 cup water (118 grams)",
+                "1 tsp vanilla extract (4 grams)",
+                "1 tsp almond extract (4 grams)",
+                "1 large egg, room temperature (57 grams)",
+                "1/4 cup vegetable oil (56 grams)",
+                " 1/2 cup sour cream, room temperature (128 grams)",
+                "1/3 cup rainbow jimmies / long sprinkles (60 grams)"
+            ],
+            "garnish": [],
+            "instructions": [
+                "Begin by preheating oven to 350°F (175°C), and place cupcake liners in baking pans.",
+                "Add 1 1/4 cup all-purpose flour, 1 cup sugar, 1 1/2 tsp baking powder and 1/2 tsp salt to a large bowl, and gently combine with a large spoon.",
+                "Next, add 1/2 cup water, 1 tsp of vanilla extract, 1 tsp of almond extract, 1 egg and 1/4 cup vegetable oil in to the dry ingredients. Mix until the batter comes together and is smooth.",
+                "Add 1/2 cup sour cream, and gently stir until just combined.",
+                "Gently fold in the rainbow sprinkles.",
+                "Fill the cupcake liners about 3-4 way full. Bake for 19-20 minutes, or until a toothpick comes out clean.",
+                "Allow the cupcakes to cool for 5 minutes before moving them to a cooling rack to finish cooling. If you want to accelerate the cooling process, pop the pans into your freezer for about 30 minutes."
+            ],
+
+            "Notes": [
+            ],
+
+            "Toppings": [
+            ]
+        }
+    }
+]

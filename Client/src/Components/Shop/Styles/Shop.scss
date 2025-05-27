@@ -1,0 +1,67 @@
+@font-face {
+  font-family: helvetica-round;
+  src: url(../../../assets/fonts/helvetica-rounded.otf);
+}
+$themeColor: #fbe0dc;
+
+.paper {
+  width: 97%;
+  height: 30vh;
+  overflow-y: visible;
+  background-color: $themeColor;
+  border-radius: 10px;
+  padding: 1.5%;
+
+  .BreadCrumb {
+    width: fit-content;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: white;
+  }
+  .cards_container {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 15%;
+
+    .card {
+      margin-top: 20px;
+      width: 250px;
+      cursor: pointer;
+      &:hover {
+        transform: scale(1.05);
+        transition: 0.3s ease;
+      }
+
+      img {
+        border-radius: 4px;
+      }
+      .typography {
+        font-family: helvetica-round;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .paper {
+    height: 100%;
+
+    .BreadCrumb {
+      display: none;
+    }
+    .cards_container {
+      width: 100%;
+      margin: 0;
+      justify-content: center;
+      .card {
+        margin: 20px;
+      }
+    }
+  }
+}
